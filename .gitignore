@@ -1,5 +1,9 @@
 venv/
 . idea/
 media/
+local_settings.py
+
+
+
 **/__pycache__/
 *.pyc
